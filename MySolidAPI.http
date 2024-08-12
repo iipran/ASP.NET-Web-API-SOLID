@@ -1,0 +1,6 @@
+@MySolidAPI_HostAddress = http://localhost:5030
+
+GET {{MySolidAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
